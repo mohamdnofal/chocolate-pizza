@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 20px;
+    width: 900px;
+    margin: auto;
+}
+
+header{
+    border-bottom: 5px dotted rgba(5, 10, 5, 0.281);
+    height: 75px;
+}
+
+header img {
+    float: right;
+}
+
+header div img {
+    float: left;
+}
+
+main {
+    /* height:auto; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+main img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+main div p {
+    padding: 10px 10px 10px 10px;
+    text-indent: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
